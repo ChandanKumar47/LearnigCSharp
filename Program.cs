@@ -168,7 +168,6 @@ namespace PracticeCSharp
                 Console.WriteLine(Contact.city);
                 Console.WriteLine("**************************************");
             }
-        }
-    
+        } 
     }
 }
